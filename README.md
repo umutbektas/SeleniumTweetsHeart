@@ -28,3 +28,15 @@ Heartbeat or rollback to tweets with hashtags you specify with selenium.
 -password
 
 edit the variables, and run them.
+
+
+
+ChromeDriver
+------------------------------------------
+ChromeDriver 'ın çalışması için indirilip sistem değişkenlerine dosya yolunun eklenmesi lazım.
+
+-------------------------------------------------------------------------
+
+For ChromeDriver's work, you need to download and add the file path to system variables.
+
+http://selenium-python.readthedocs.io/installation.html
